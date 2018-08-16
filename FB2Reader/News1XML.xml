@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Book>
+  <Header>Черкасская область</Header>
+  <Content Name="Содержание">
+    <ContentItem>Черкассы</ContentItem>
+    <ContentItem>Физико-географическая характеристика</ContentItem>
+    <ContentItem>Население</ContentItem>
+    <ContentItem>Культура</ContentItem>
+    <ContentItem>Национальный дендрологический парк «Софиевка»</ContentItem>
+    <ContentItem>Черкасский зоопарк</ContentItem>
+    <ContentItem>Букский каньон</ContentItem>
+    <ContentItem>Холодный Яр</ContentItem>
+    <ContentItem>«Сосновый бор»</ContentItem>
+    <ContentItem>Шевченковский национальный заповедник</ContentItem>
+    <ContentItem>Женский монастырь</ContentItem>
+  </Content>
+  <ContentSource>
+    <ContentItemSource>
+      <HeaderContentItem>Черкассы</HeaderContentItem>
+      <Source>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\1.png</image>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Физико-географическая характеристика</HeaderContentItem>
+      <Source>
+        <p>Черка́сская о́бласть (укр. Черка́ська о́бласть) — регион Украины, расположенный в центральной части страны.</p>
+        <p>По территории области протекает река Днепр и её многочисленные притоки — Ольшанка, Тясмин и другие. На территории Черкасской области расположены такие географические объекты как Ирдынское болото, Холодный Яр, Дуб Максима Железняка, Богданова Гора, Тарасова (Чернеча) гора.</p>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Население</HeaderContentItem>
+      <Source>
+        <p>Численность наличного населения области по данным Государственной службы статистики на 1 октября 2013 года составила 1 263 493 человек (что на 1076 человек меньше чем 1 сентября), в том числе городское население 713 784 человек (56,49 %), сельское 549 709 человек (43,51 %). Постоянное население — 1 259 864 человек, в том числе городское население 708 130 человек (56,2 %), сельское 551 734 человека (43,8 %).</p>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Культура</HeaderContentItem>
+      <Source>
+        <p>По количеству объектов культурного наследия Черкасская область занимает одно из первых мест на Украине. В Черкасской области расположены знаменитые усадебные комплексы, древние города с архитектурными памятниками (Умань, Канев и др.); культовые сооружения — храмы и монастыри (Свято-Троицкий Мотронинский женский монастырь и др.). В области действует несколько театров, обширная сеть общедоступных библиотек; в последние годы ведётся работа по объединению общедоступных библиотек в централизованные библиотечные системы.</p>
+        <p>В Черкасской области действуют многочисленные музеи[17]. В числе основных проблем, с которыми в настоящее время сталкиваются учреждения культуры в Черкасской области, — слабая материально-техническая база, устаревание библиотечного фонда, отсутствие отвечающих современным требованиям театральных площадок; многие учреждения нуждаются в капитальном ремонте.</p>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Национальный дендрологический парк «Софиевка»</HeaderContentItem>
+      <Source>
+        <p>Национа́льный дендрологи́ческий парк «Софиевка» — парк, научно-исследовательский институт Национальной академии наук Украины, расположенный в северной части города Умань Черкасской области Украины, на берегах реки Каменки.</p>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\2.jpg</image>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Черкасский зоопарк</HeaderContentItem>
+      <Source>
+        <p>Черкасский зоопарк — зоологический парк регионального значения. Находится в юго-западной части города. Основан 1 мая 1979 года, является природоохранным, культурно-образовательным и научно-исследовательским учреждением Черкасс.</p>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\3.jpg</image>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Букский каньон</HeaderContentItem>
+      <Source>
+        <p>Букский каньон — скальный каньон на реке Горный Тикич возле села Буки. Сам каньон небольшой, около 5 км в длину, также само это место уникально тем, что там находятся развалины первой на Украине гидроэлектростанции.</p>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\4.jpg</image>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Холодный Яр</HeaderContentItem>
+      <Source>
+        <p>Холодный Яр — урочище в Черкасской области Украины. Представляет собой реликтовый лесной массив площадью около 7000 га. Рельеф холмистый, с большим количеством балок, имеющих крутые склоны.</p>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\5.jpg</image>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>«Сосновый бор»</HeaderContentItem>
+      <Source>
+        <p>Черкасский городской парк «Сосновый бор» — самый крупный парк в городской черте Черкасс, памятник садово-паркового искусства Украины общегосударственного значения.</p>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\6.jpg</image>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Шевченковский национальный заповедник</HeaderContentItem>
+      <Source>
+        <p>Шевченковский национальный заповедник — первый на Украине историко-культурный заповедник который был удостоен статуса национального. Расположен в 4 км южнее центра Канева. Общая площадь заповедника составляет 2500 га.</p>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\7.jpg</image>
+      </Source>
+    </ContentItemSource>
+    <ContentItemSource>
+      <HeaderContentItem>Женский монастырь</HeaderContentItem>
+      <Source>
+        <p>Свято-Троицкий Мотронинский монастырь расположен в Черкасской области. Расположен на территории так называемого скифского мотронинского городища.</p>
+        <image>E:\FlashUSBSSSSuuuurrr\FB2Reader\FB2Reader\Images\8.jpg</image>
+      </Source>
+    </ContentItemSource>
+  </ContentSource>
+</Book>
